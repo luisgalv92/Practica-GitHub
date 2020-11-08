@@ -11,12 +11,12 @@ h1 {
 	font-family: "Courier New", Courier, monospace;
 }
 
-h2 {
+h3 {
 	text-decoration: underline;
 }
 
 a {
-	color: green;
+	color: yellow;
 	text-decoration: none;
 }
 
